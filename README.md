@@ -1,5 +1,4 @@
-# Distinguishing Hate Speech from Offensive Language on Twitter
-# Using Machine Learning Techniques
+# Distinguishing Hate Speech from Offensive Language on Twitter Using Machine Learning Techniques
 
 MSc Data Science Final Project - University of Hertfordshire
 
