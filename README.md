@@ -20,6 +20,7 @@ This project uses machine learning to classify tweets into three categories:
 hate-speech-detection/
 ├── README.md
 ├── requirements.txt
+├── .gitignore
 ├── Hate_Speech_FINAL.ipynb    # Complete analysis notebook
 └── labeled_data.csv            # Dataset
 ```
@@ -77,3 +78,4 @@ University of Hertfordshire
 ## License
 
 MIT License
+
