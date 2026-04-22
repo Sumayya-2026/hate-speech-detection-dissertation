@@ -19,9 +19,9 @@ This project uses machine learning to classify tweets into three categories:
 hate-speech-detection/
 ├── data/
 │   └── labeled_data.csv                    ← "Create labeled_data.csv"
-├──  24069633_HateSpeech_Dissertation.ipynb  ← "Update HateSpeech notebook"
-├── .gitignore                               ← "Added .gitignore to ignore checkpoint files"
-└── README.md                                ← "Update README.md"
+├──  24069633_HateSpeech_Project.ipynb      ← "Update HateSpeech notebook"
+├── .gitignore                              ← "Added .gitignore to ignore checkpoint files"
+└── README.md                               ← "Update README.md"
 ```
 
 ## Installation
